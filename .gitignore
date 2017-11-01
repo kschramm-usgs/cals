@@ -102,3 +102,6 @@ ENV/
 
 # text files
 .txt
+
+# pdfs
+.pdf
