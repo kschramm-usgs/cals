@@ -1,0 +1,387 @@
+StartTime: 1497628620000
+StartTimeTrimmed: 1497628620000
+points to end: 49
+endTime: 1497629520005
+endTimeTrimmed: 1497629520005
+StartTime: 1497628620000
+StartTimeTrimmed: 1497628620000
+points to end: 78
+endTime: 1497629520005
+endTimeTrimmed: 1497629520005
+EPOCHS: 1
+EPOCHS: 1
+current cost :36.09029751364495
+ACTRED: 0.2261760137036637
+Accepted, 2, 3484.685326343192, 0.19372196625572288, 0.2261760137036637, 58.528710164283076
+current cost :34.72742638927911
+ACTRED: 0.07409959426095813
+Accepted, 3, 3485.6420917717182, 0.040332069612625476, 0.07409959426095813, 43.60208258889712
+current cost :33.47317031331264
+ACTRED: 0.0709298741217761
+Accepted, 4, 3487.0886881962842, 0.043918141682962826, 0.0709298741217761, 64.01687830304954
+current cost :32.50986864412402
+ACTRED: 0.056728451924705325
+Accepted, 5, 3665.237521499773, 0.03361779466145264, 0.056728451924705325, 62.1593251018351
+current cost :31.5052799777638
+ACTRED: 0.06084720065893057
+Accepted, 6, 3701.4551813635744, 0.037596522262624874, 0.06084720065893057, 61.73048567871895
+current cost :30.848716358435276
+ACTRED: 0.04124529562800827
+Accepted, 7, 3721.4710182514236, 0.022401287800194448, 0.04124529562800827, 39.131675194699
+current cost :30.32998510413972
+ACTRED: 0.03334789885426015
+Accepted, 8, 3725.2367153110263, 0.019912994430063863, 0.03334789885426015, 36.60989846615269
+current cost :29.877166149569376
+ACTRED: 0.029636593436018543
+Accepted, 9, 3725.7922738633765, 0.018269807135849487, 0.029636593436018543, 29.531965342045634
+current cost :29.240568354281358
+ACTRED: 0.04216034038055083
+Accepted, 10, 3726.884362013407, 0.033972670562306795, 0.04216034038055083, 52.19730071364661
+current cost :28.88363456440928
+ACTRED: 0.024264595390769306
+Accepted, 11, 3914.6196803442313, 0.017880181658725267, 0.024264595390769306, 27.739828500807572
+current cost :28.532710652018
+ACTRED: 0.02415153974110018
+Accepted, 12, 3962.5770435838717, 0.014981459254627991, 0.02415153974110018, 16.923424598021494
+current cost :28.062928578381836
+ACTRED: 0.03265828280726357
+Accepted, 13, 3964.6416676065364, 0.025452944581615483, 0.03265828280726357, 35.47895127529924
+current cost :27.65377796820137
+ACTRED: 0.028946939825902795
+Accepted, 14, 4357.76893815536, 0.025689893767284727, 0.028946939825902795, 47.82537446662322
+current cost :27.25384222304551
+ACTRED: 0.02871533582199204
+Accepted, 15, 4369.289122576364, 0.02663399223168292, 0.02871533582199204, 35.44386079661748
+current cost :26.892330284982013
+ACTRED: 0.026353295463369508
+Accepted, 16, 4372.511414517916, 0.02367982801996208, 0.026353295463369508, 38.08634348428917
+current cost :26.59107114443493
+ACTRED: 0.02227934298554035
+Accepted, 17, 4375.1995903405295, 0.018749456743246334, 0.02227934298554035, 38.4779465772178
+current cost :26.35082096412577
+ACTRED: 0.017988357782714792
+Accepted, 18, 4378.43855289704, 0.017622856019720634, 0.017988357782714792, 21.214681475737727
+current cost :26.13954484352365
+ACTRED: 0.015971353151469914
+Accepted, 19, 4394.3340370537135, 0.01727654815977188, 0.015971353151469914, 16.255878192466483
+current cost :25.84230322843489
+ACTRED: 0.022613369845068232
+Accepted, 20, 4419.955351855158, 0.022296168157756233, 0.022613369845068232, 33.56486896728161
+current cost :25.624506236158066
+ACTRED: 0.016784819991200184
+Accepted, 21, 4422.504905931581, 0.02001484507557323, 0.016784819991200184, 17.26154133044539
+current cost :25.447753545838683
+ACTRED: 0.013748018123097006
+Accepted, 22, 4428.1154618357095, 0.019506151981042975, 0.013748018123097006, 26.169871166871896
+current cost :25.241747929477217
+ACTRED: 0.01612494271966891
+Accepted, 23, 5203.113842248281, 0.020106145968735507, 0.01612494271966891, 29.2905691246985
+current cost :25.110286223281165
+ACTRED: 0.010389088211547937
+Accepted, 24, 5202.947670239037, 0.014527657466545652, 0.010389088211547937, 13.641376461020572
+current cost :24.95463632017171
+ACTRED: 0.012358878907933746
+Accepted, 25, 5201.667755653604, 0.01657083375945727, 0.012358878907933746, 23.463309838036416
+current cost :24.92260789246684
+ACTRED: 0.002565284750690844
+Accepted, 26, 5202.701300910881, 0.007396633757872008, 0.002565284750690844, 8.263708788044777
+current cost :24.91653916321187
+ACTRED: 4.869466633929953E-4
+Accepted, 27, 5202.621614593161, 0.004790028720653111, 4.869466633929953E-4, 4.131854394022389
+current cost :24.84774151285781
+ACTRED: 0.005514623879960823
+Accepted, 28, 5201.906569923572, 0.010541504479325505, 0.005514623879960823, 4.131854394022389
+current cost :24.771537565196198
+ACTRED: 0.006124266474523243
+Accepted, 29, 5201.719136375647, 0.013291225245624776, 0.006124266474523243, 4.131854394022389
+current cost :24.702906808829066
+ACTRED: 0.005533421876068534
+Accepted, 30, 5201.799872517375, 0.01161427530377616, 0.005533421876068534, 4.131854394022389
+current cost :24.632865029023485
+ACTRED: 0.005662692517082291
+Accepted, 31, 5201.9409328203965, 0.014570505038512736, 0.005662692517082291, 4.131854394022389
+current cost :24.54477207550669
+ACTRED: 0.0071396837347857955
+Accepted, 32, 5200.5651014623545, 0.016014570168692274, 0.0071396837347857955, 4.131854394022389
+current cost :24.46638112137611
+ACTRED: 0.006377388357651781
+Accepted, 33, 5199.691064224197, 0.01276249582152644, 0.006377388357651781, 4.131854394022389
+current cost :24.40227757954324
+ACTRED: 0.005233267948283715
+Accepted, 34, 5197.483226936106, 0.0118354627099432, 0.005233267948283715, 4.131854394022389
+current cost :24.38212427165892
+ACTRED: 0.0016510742270128276
+Accepted, 35, 5198.174672460318, 0.008372132920061824, 0.0016510742270128276, 2.0659271970111943
+current cost :24.361100271541623
+ACTRED: 0.0017237986066948041
+Accepted, 36, 5197.434106800881, 0.009799761284595788, 0.0017237986066948041, 1.0329635985055972
+current cost :24.354403722380564
+ACTRED: 5.496983871299266E-4
+Accepted, 37, 5204.873977973071, 0.0024933661392140456, 5.496983871299266E-4, 0.5164817992527986
+current cost :24.344956546812853
+ACTRED: 7.75657936513241E-4
+Accepted, 38, 5204.907952561493, 0.005089690740008639, 7.75657936513241E-4, 0.2582408996263993
+current cost :24.338658994685645
+ACTRED: 5.172929834453832E-4
+Accepted, 39, 5224.301973512581, 0.0013517876229735524, 5.172929834453832E-4, 0.2582408996263993
+current cost :24.340407657366825
+ACTRED: -1.4369941250702567E-4
+Rejected, 40, 5224.2004264140505, 0.0020228720295236316, -1.4369941250702567E-4, 0.12136800472276141
+current cost :24.339528805086818
+ACTRED: -7.147689968656223E-5
+Rejected, 41, 5224.2004264140505, 9.312837616729829E-4, -7.147689968656223E-5, 0.05654152427348657
+current cost :24.339103003982377
+ACTRED: -3.648626219332485E-5
+Rejected, 42, 5224.2004264140505, 4.67071122952089E-4, -3.648626219332485E-5, 0.02626525591883337
+current cost :24.3388743698459
+ACTRED: -1.769827279640701E-5
+Rejected, 43, 5224.2004264140505, 2.250265002916017E-4, -1.769827279640701E-5, 0.012184659407243703
+current cost :24.33876095357737
+ACTRED: -8.378366721739638E-6
+Rejected, 44, 5224.2004264140505, 1.0622697610117251E-4, -8.378366721739638E-6, 0.005649042320502678
+current cost :24.338706712824354
+ACTRED: -3.921184441368908E-6
+Rejected, 45, 5224.2004264140505, 4.965412497863336E-5, -3.921184441368908E-6, 0.0026182489347940695
+current cost :24.338681208464358
+ACTRED: -1.8253913540711153E-6
+Rejected, 46, 5224.2004264140505, 2.310212388867649E-5, -1.8253913540711153E-6, 0.0012133580056893688
+current cost :24.338669310015646
+ACTRED: -8.476500032994494E-7
+Rejected, 47, 5224.2004264140505, 1.0725110882042346E-5, -8.476500032994494E-7, 5.622637309089092E-4
+current cost :24.338663343580087
+ACTRED: -3.573651969901448E-7
+Rejected, 48, 5224.2004264140505, 4.521083097838572E-6, -3.573651969901448E-7, 2.605419901109019E-4
+current cost :24.33866101067791
+ACTRED: -1.6566174410037604E-7
+Rejected, 49, 5224.2004264140505, 2.0957096011544146E-6, -1.6566174410037604E-7, 1.207285911432062E-4
+current cost :24.338659929017158
+ACTRED: -7.677756896917742E-8
+Rejected, 50, 5224.2004264140505, 9.712554725555422E-7, -7.677756896917742E-8, 5.594227404575883E-5
+current cost :24.338659427665874
+ACTRED: -3.557962924283231E-8
+Rejected, 51, 5224.2004264140505, 4.500863982816822E-7, -3.557962924283231E-8, 2.5922027538383015E-5
+current cost :24.338659195323903
+ACTRED: -1.648720715508034E-8
+Rejected, 52, 5224.2004264140505, 2.085642010266783E-7, -1.648720715508034E-8, 1.20115020621695E-5
+current cost :24.338659087656623
+ACTRED: -7.6397781434423E-9
+Rejected, 53, 5224.2004264140505, 9.664404112429453E-8, -7.6397781434423E-9, 5.565774728313303E-6
+current cost :24.338659037765698
+ACTRED: -3.540051363160046E-9
+Rejected, 54, 5224.2004264140505, 4.4782322400723314E-8, -3.540051363160046E-9, 2.579016073962486E-6
+current cost :24.338659014647366
+ACTRED: -1.6403305380663369E-9
+Rejected, 55, 5224.2004264140505, 2.07508806093028E-8, -1.6403305380663369E-9, 1.1950416208538998E-6
+current cost :24.338659003935174
+ACTRED: -7.600688967102087E-10
+Rejected, 56, 5224.2004264140505, 9.615374562525892E-9, -7.600688967102087E-10, 5.537485329636337E-7
+current cost :24.338658998971482
+ACTRED: -3.521836156039626E-10
+Rejected, 57, 5224.2004264140505, 4.455496277726258E-9, -3.521836156039626E-10, 2.565920174187663E-7
+using convergence criteria 2
+2.565920174187663E-7, 5.22420042641405E-7
+Writing directory /home/kschramm/test_results/High_Frq_Randomized_calibration_CU_TGUH_00_EHZ_2017.167_1overFsquared
+0 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/LiberationSans-Regular.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/liberation/LiberationSans-Regular.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/LiberationSans-Bold.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/liberation/LiberationSans-Bold.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/fonts.scale
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/LiberationSans-Italic.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/liberation/LiberationSans-Italic.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/fonts.dir
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf
+1 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019003l.pfb
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019003l.pfb
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010015l.pfb
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/a010015l.pfb
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019023l.afm
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019044l.afm
+2 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022003l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n022003l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021023l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018032l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022023l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n022023l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019024l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019024l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018012l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/b018012l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052023l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018015l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018015l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/b018015l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010033l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/a010033l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/d050000l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/d050000l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019004l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019004l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010035l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/a010035l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021023l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n021023l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022004l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052004l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018032l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/b018032l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010013l.afm
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059033l.pfb
+3 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/c059033l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019063l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019063l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022024l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010015l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/z003034l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018035l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/b018035l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022003l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010035l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010013l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/a010013l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019064l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019004l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/s050000l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/s050000l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021003l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052003l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052023l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/p052023l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022024l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n022024l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019003l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021004l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059036l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/fonts.scale
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019043l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022004l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n022004l.pfb
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059033l.afm
+4 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021003l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n021003l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/a010033l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018035l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019044l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019044l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019024l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052024l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059016l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/c059016l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059013l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/s050000l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021024l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n021024l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059036l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/c059036l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/fonts.dir
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059013l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/c059013l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052003l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/p052003l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/b018012l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/z003034l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/z003034l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019043l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019043l.pfb
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021024l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n022023l.afm
+5 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019064l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019064l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/d050000l.afm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052024l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/p052024l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019063l.afm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/p052004l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/p052004l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n019023l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n019023l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/c059016l.afm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/Type1/n021004l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/default/Type1/n021004l.pfb
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u003043t.pfm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplsb.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fcyr.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/putri.pfa
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgero.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fcyri.afm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpltb.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u004006t.pfm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrscco.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpldi.pfa
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u004006t.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpltbi.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fcyr.afm
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgerd.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fhirw.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplti.pfa
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrsccb.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpls.gsf
+6 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fkarw.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplt.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgrr.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hritrb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplrbo.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/putb.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrsyr.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgks.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrscsb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplro.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hritr.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplso.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpldbi.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fonts.scale
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpldb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrscs.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u004006t.afm
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hritro.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgrrb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplsbo.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u003043t.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrger.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgrro.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fkarw.pfm
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrscso.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fonts.dir
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/putbi.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgerb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrgkc.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/u003043t.afm
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrscc.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/putr.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fcyri.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplr.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/fhirw.pfm
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrplrb.gsf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/default/ghostscript/hrpld.pfa
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSansCondensed.ttf
+7 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSansCondensed.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSans.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSans.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSans-Bold.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSans-Bold.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check /usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf
+8 [AWT-EventQueue-0] DEBUG org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found /usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf
+38 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusRomNo9L-Regu from /usr/share/fonts/default/Type1/n021003l.pfb
+43 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusRomNo9L-Medi from /usr/share/fonts/default/Type1/n021004l.pfb
+48 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusRomNo9L-ReguItal from /usr/share/fonts/default/Type1/n021023l.pfb
+51 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusRomNo9L-MediItal from /usr/share/fonts/default/Type1/n021024l.pfb
+56 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusSanL-Regu from /usr/share/fonts/default/Type1/n019003l.pfb
+60 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusSanL-Bold from /usr/share/fonts/default/Type1/n019004l.pfb
+63 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusSanL-ReguItal from /usr/share/fonts/default/Type1/n019023l.pfb
+66 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusSanL-BoldItal from /usr/share/fonts/default/Type1/n019024l.pfb
+69 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusMonL-Regu from /usr/share/fonts/default/Type1/n022003l.pfb
+73 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusMonL-Bold from /usr/share/fonts/default/Type1/n022004l.pfb
+76 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusMonL-ReguObli from /usr/share/fonts/default/Type1/n022023l.pfb
+78 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded NimbusMonL-BoldObli from /usr/share/fonts/default/Type1/n022024l.pfb
+80 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded StandardSymL from /usr/share/fonts/default/Type1/s050000l.pfb
+82 [AWT-EventQueue-0] DEBUG org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded Dingbats from /usr/share/fonts/default/Type1/d050000l.pfb

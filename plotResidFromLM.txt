@@ -1,0 +1,57 @@
+#!/bin/env python
+
+import numpy as np
+import matplotlib.pyplot as plt
+import obspy
+import re 
+
+def readAline(data):
+   import re 
+   if(re.search(',',data)):
+      outputData=(np.fromstring(data,sep=','))
+   else:
+      outputData=data.strip()
+   return outputData
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+idebug=False
+#idebug=True
+
+residVal=[]
+instName='residualsFromLM_TGUH'
+fileName=instName+'.txt'
+fStart=0.2
+fEnd=80.
+
+stepVal=1
+with open(fileName,'r') as f:
+   mydat = f.read()
+   mydat = mydat.replace("[","")
+   mydat = mydat.replace("]","")
+   lines = mydat.split('\n')
+   for line in lines[:-1]:
+      residVal=readAline(line)
+      residAmp=residVal[0:int(len(residVal)/2)]
+      residPha=residVal[int(len(residVal)/2):]
+
+      deltaF=(fEnd-fStart)/len(residPha)
+      freqs=np.arange(fStart,fEnd,deltaF)
+
+      plt.figure(figsize=(11,8.5))
+      plt.subplot(2,1,1)
+      plt.semilogx(freqs,residAmp,'b',label='residual amplitude')
+      plt.xlabel('frequency')
+      plt.ylabel('residual amplitude')
+      plt.legend()
+      plt.title('Amplitude residual: '+instName+' at step: '+str(stepVal))
+      plt.subplot(2,1,2)
+      plt.semilogx(freqs,residPha,'r',label='residual phase')
+      plt.xlabel('frequency')
+      plt.ylabel('residual phase')
+      plt.legend()
+      plt.title('Phase residual: '+instName+' at step: '+str(stepVal))
+      plt.savefig('pdfs/'+instName+'_residual.pdf',format='pdf')
+# 
+      stepVal += 1
+#
+plt.show()
