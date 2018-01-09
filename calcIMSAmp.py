@@ -1,8 +1,6 @@
 import glob
 import os
-from subprocess import Popen, PIPE
 from obspy.core import read, UTCDateTime
-from obspy.mseed.util import getRecordInformation
 import sys
 
 debug = True
@@ -19,44 +17,31 @@ for sta in stas:
         for cal in cals:
             print(cal)
             try:
-            #if True:
+               if('_BC0' in cal):
+                  calOutFile=cal.replace('_BC0','00_BHZ')
+               elif('_BC1' in cal):
+                  calOutFile=cal.replace('_BC1','10_BHZ')
+               elif('_BC6' in cal):
+                  calOutFile=cal.replace('_BC6','60_BHZ')
+               print(calOutFile)
+# use the details=True option when reading in the stream.            
+               calOut=read(calOutFile,details=True)
+               for i in range(0,len(calOut)-1):
+                  if(calOut[i].stats.mseed['calibration_type']):
+                     print(calOut[i].stats.mseed['calibration_type'])
+               # now that we have the file being read in we need to figure out which 
+               # sine wave to process
+               # looks like it takes ca. 300s to get to the flat part.
 
-                if '_BC0' in cal:
-                    calOut =cal.replace('_BC0','00_BHZ')
-                    print(calOut)
-                elif '_BC1' in cal:
-                    calOut = cal.replace('_BC1','10_BHZ')
-                stdout = Popen('dumpCAL  ' + calOut, shell=True, 
-                   stdout=PIPE).stdout
-                results = stdout.read()
-                ri= getRecordInformation(calOut)
-                print(ri)
-# what is wrong with the string
-# is there a way to reproduce this in obspy?
-                result = stdout.read()
-                print(results)
-
-                #results = results.split('\\n')
-                print('here')
-                #for result in results:
-                #    print('result'+result)
-                #    result = ' '.join(result.split())
-                if 'Type: 310' in result:
-# 310 is the sine blockette flag.
-                   time = result.split(' ')[9]
-                   time = time.split(',')
-                   time = UTCDateTime(time[0] + '-' + time[1] + 'T' + 
-                          time[2])
-                   print(time)
-                   dur = float(result.split(' ')[13])/10000.
-                   per = float(result.split(' ')[15])
-                   stIn = read(cal, starttime=time, endtime=time+dur)
-                   stOut = read(calOut, starttime=time, endtime=time+dur)
-                   rat = stIn[0].std() / stOut[0].std()
-                   f.write('Cal ' + stOut[0].stats.station + ' ' + 
-                      stOut[0].stats.location + ' ' + ' ' + 
-                      time.format_seed() + ' ' + str(per) + 
-                      ' ' + str(rat) + '\n')
+               #dur = float(result.split(' ')[13])/10000.
+               #per = float(result.split(' ')[15])
+               #stIn = read(cal, starttime=time, endtime=time+dur)
+               #stOut = read(calOut, starttime=time, endtime=time+dur)
+               #rat = stIn[0].std() / stOut[0].std()
+               #f.write('Cal ' + stOut[0].stats.station + ' ' + 
+               #   stOut[0].stats.location + ' ' + ' ' + 
+               #   time.format_seed() + ' ' + str(per) + 
+               #   ' ' + str(rat) + '\n')
             except:
                 print('Problem with' + cal)
                 pass
