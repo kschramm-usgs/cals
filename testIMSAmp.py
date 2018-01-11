@@ -15,6 +15,10 @@ calAmpARP=[]
 i=0
 
 outfile=open("myResults_ANMO_sineCal.txt",'w')
+# create a header
+outfile.write('stat, chan, date, per, sens, calAmp, percDiff\n')
+# this needs to be not hard coded, but for now it will suffice
+RespSens=86299.5*2029.0
 
 with open('Results_ANMO_sineCal.txt','r') as calInfo:
    mydat = calInfo.read()
@@ -29,7 +33,7 @@ with open('Results_ANMO_sineCal.txt','r') as calInfo:
       print(linex[3])
       print(linex[4])
       date.append(UTCDateTime(linex[4]))
-      period.append(linex[5])
+      period.append(float(linex[5]))
       sens.append(float(linex[6]))
       if(channel=='00'):
         calInF='/msd/IU_'+station+'/'+str(date[i].year)+'/'+str(date[i].julday).zfill(3)+'/_BC0.512.seed'
@@ -38,8 +42,8 @@ with open('Results_ANMO_sineCal.txt','r') as calInfo:
         calInF='/msd/IU_'+station+'/'+str(date[i].year)+'/'+str(date[i].julday).zfill(3)+'/_BC1.512.seed'
         calOutF='/msd/IU_'+station+'/'+str(date[i].year)+'/'+str(date[i].julday).zfill(3)+'/10_BHZ.512.seed'
 
-      calIn=ob.read(calInF,starttime=date[i],endtime=date[i]+600)
-      calOut=ob.read(calOutF,starttime=date[i],endtime=date[i]+600)
+      calIn=ob.read(calInF,starttime=date[i]+10,endtime=date[i]+550)
+      calOut=ob.read(calOutF,starttime=date[i]+10,endtime=date[i]+550)
 
       # measure the amplitude:
       # the std()*np.sqrt(2) = the amplitude.  as we are dividing the Out/In, then we 
@@ -61,9 +65,19 @@ with open('Results_ANMO_sineCal.txt','r') as calInfo:
       #calculate some stats
       percDiff=100*((sens[i]-calAmpARP[i])/sens[i])
       
-      outfile.write(station+' '+channel+' '+str(date[i])+' '+period[i]+' '
-                   +str(sens[i])+' '+str(calAmpARP[i])+' '+str(percDiff)+'\n')
+      # now to calculate the CALIB for the IMS at 1.0s
+      calib=0.0
+      if (period[i]==1.0) and (i > 0):
+      # to get into the units we need to use a known (?) sensitivity:
+         sensorVMS=(calAmpARP[i-1]/calAmpARP[i])*RespSens
+         calib = period[i]/(sensorVMS*1.677720e+06*1e-09*2.0*np.pi)
+
+      outfile.write(station+',  '+channel+',  '+str(date[i])+',  '+str(period[i])+',  '
+                   +str(sens[i])+',  '+str(calAmpARP[i])+',  '+str(percDiff)+',  '
+                   +str(calib)+'\n')
+
       i=i+1
 
 print(sens,calAmp,calAmpARP)
 print(np.isclose(sens,calAmpARP,rtol=1e-03))
+
