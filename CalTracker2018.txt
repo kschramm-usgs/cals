@@ -1,0 +1,5 @@
+network, station, location, Hf start time, autocal start time
+IU, TUC, 00, 2018-004T24:57, 2018-005T19:07	
+IU, TUC, 10, gap in cal, 2018-006T06:50
+IU, TUC, 60, 2018-004T20:38, 2018-006T18:33
+US, MNTX, 00, 2018-004T17:06, no lf cal
