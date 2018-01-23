@@ -69,6 +69,7 @@ with open('Results_ANMO_sineCal.txt','r') as calInfo:
       calib=0.0
       if (period[i]==1.0) and (i > 0):
       # to get into the units we need to use a known (?) sensitivity:
+      #   sensorVMS is 
          sensorVMS=(calAmpARP[i-1]/calAmpARP[i])*RespSens
          calib = period[i]/(sensorVMS*1.677720e+06*1e-09*2.0*np.pi)
 
