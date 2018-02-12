@@ -102,6 +102,9 @@ ENV/
 
 # text files
 .txt
+.csv
 
 # pdfs
 .pdf
+
+

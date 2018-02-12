@@ -19,12 +19,14 @@ def process_calibrations(start_year, start_day, end_year, end_day):
     filepaths = find_files(start_date, end_date)
 
     calibrations = find_calibrations([filepath for sublist in filepaths for filepath in sublist])
-    print("network,station,location,channel,CalBlockette,start,end,filename")
+    print("network,station,location,channel,calInput,CalBlockette,start,end,filename")
     for cal in calibrations:
         network_code = cal["network"]
         station_code = cal["station"]
         location_code = cal["location"]
         channel_code = cal["channel"]
+        cal_input=cal["channel_input"]
+        sin_per=cal["signal_period"]
         type = cal["type"]
 
         start_time = cal["start_time"]
@@ -34,8 +36,9 @@ def process_calibrations(start_year, start_day, end_year, end_day):
         end_time = end_time.strftime('%Y-%j %H:%M:%S')
 
         file_name = cal["file_name"]
+        
         print(
-            network_code + "," + station_code + "," + location_code + "," + channel_code + "," + str(type) + "," + str(start_time) + "," + str(end_time) + "," + file_name)
+            network_code + "," + station_code + "," + location_code + "," + channel_code + ","+cal_input+"," + str(type) + "," + str(start_time) + "," + str(end_time) + "," + file_name)
 
 
 def find_files(start_date, end_date):
@@ -44,7 +47,7 @@ def find_files(start_date, end_date):
     filepaths = []
     while date <= end_date:
         eprint("Searching "+str(date)+" until "+str(end_date))
-        filepath = '/msd/*_*/%s/%s/*[BE]HZ.512.seed' % (date.strftime('%Y'), date.strftime('%j'))
+        filepath = '/msd/*_*/%s/%s/*[BE]H*.512.seed' % (date.strftime('%Y'), date.strftime('%j'))
         filepaths.append(glob.glob(filepath))
         # output.append(add_calibrations(dataless, cals))
         date += datetime.timedelta(1)
@@ -151,6 +154,6 @@ def get_end_time_delta_seconds(calibration):
     return seed_delta / 10000
 
 
-process_calibrations("2018", "001", "2018", "023")
+process_calibrations("2018", "037", "2018", "038")
 
 
